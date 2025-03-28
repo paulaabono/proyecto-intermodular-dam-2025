@@ -17,7 +17,7 @@ Repositorio del proyecto intermodular del ciclo DAM 2025
 
 
 ## Autores
-- Paula Bono Martínwz @paulaabono
+- Paula Bono Martínez @paulaabono
 
 ## Licencia
 Este proyecto está bajo la licencia [MIT](LICENSE).
