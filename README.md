@@ -1,4 +1,4 @@
-# proyecto-intermodular-dam-2025
+# Proyecto intermodular DAM 2025
 
 ## Descripción
 Repositorio del proyecto intermodular del ciclo DAM 2025
@@ -7,9 +7,7 @@ Repositorio del proyecto intermodular del ciclo DAM 2025
 
 ## Instalación y ejecución
 
-
 ## Capturas de pantalla
-
 
 ## Autores
 - Paula Bono Martínez @paulaabono
